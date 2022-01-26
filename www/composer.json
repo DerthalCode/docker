@@ -1,0 +1,10 @@
+
+{
+    "autoload":{
+        "name": "To_do_list",
+        "description": "name space demo",
+        "psr-4":{
+            "ToDo\\":"app"
+        }
+    }
+}
